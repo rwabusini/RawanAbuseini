@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/%7BRawan-Abuseini%7D/precache-manifest.f03b98358edd9af162773b7633310e76.js"
+  "/RawanAbuseini/precache-manifest.25c537f4e4f1e045ce0f79f9fe10d96e.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/%7BRawan-Abuseini%7D/index.html", {
+workbox.routing.registerNavigationRoute("/RawanAbuseini/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
