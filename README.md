@@ -2,4 +2,4 @@
 MY PORTFOLIO
 
 # Deployed:
-rwabusini.github.io/Rawan_Abuseini/
+rwabusini.github.io/Rawan_Abuseini 
